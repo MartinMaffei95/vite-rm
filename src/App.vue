@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Title from './components/Title/Title.vue';
-import CardsContainer from './components/Card/CArdsContainer.vue';
+import CardsContainer from './components/Card/CardsContainer.vue';
 </script>
 
 <template>
